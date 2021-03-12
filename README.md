@@ -1,4 +1,4 @@
-# [green]x_textbook[\]
+# x_textbook
 
 ##Here are solved:
 
