@@ -1,6 +1,8 @@
 # x_textbook
 
-##Here are solved:
+We tried to solve the C programs from ICT for XI-XII by Prf. Mujibur Rahman
+
+## Here are solved:
 
 - [ ] **C programs**
 - [ ] **HTML (Coming Soon)**
